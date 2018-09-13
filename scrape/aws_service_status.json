@@ -1,0 +1,600 @@
+{
+    "document_type": "aws_service_status",
+    "aws_region": "eu-west-1",
+    "aws_services": [
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon API Gateway",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon AppStream 2.0",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Athena",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Cloud Directory",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon CloudSearch",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon CloudWatch",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Cognito",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Comprehend",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Data Lifecycle Manager",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon DynamoDB",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon DynamoDB Accelerator (DAX)",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Elastic Compute Cloud",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Elastic Container Registry",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Elastic Container Service",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Elastic File System",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Elastic Load Balancing",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Elastic MapReduce",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Elastic Transcoder",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon ElastiCache",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Elasticsearch Service",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon FreeRTOS",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon GameLift",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Glacier",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon GuardDuty",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Inspector",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Kinesis",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Kinesis Analytics",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Kinesis Firehose",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Kinesis Video Streams",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Lex",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Lightsail",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Machine Learning",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon MQ",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Polly",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Redshift",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Rekognition",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Relational Database Service",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Route 53 Private DNS",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon SageMaker",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Simple Email Service",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Simple Notification Service",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Simple Queue Service",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Simple Storage Service",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Simple Workflow Service",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon SimpleDB",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Sumerian",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Transcribe",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Translate",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon Virtual Private Cloud",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon WorkDocs",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon WorkMail",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Amazon WorkSpaces",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "Auto Scaling",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS AppSync",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Batch",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Certificate Manager",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Cloud9",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS CloudFormation",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS CloudHSM",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS CloudTrail",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS CodeBuild",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS CodeCommit",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS CodeDeploy",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS CodePipeline",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS CodeStar",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Config",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Data Pipeline",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Database Migration Service",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Direct Connect",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Directory Service",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Elastic Beanstalk",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Elemental MediaConvert",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Elemental MediaLive",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Elemental MediaPackage",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Elemental MediaStore",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Elemental MediaTailor",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Firewall Manager",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Glue",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Greengrass",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Internet Connectivity",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS IoT",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS IoT 1-Click",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS IoT Analytics",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Key Management Service",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Lambda",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS NAT Gateway",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS OpsWorks for Chef Automate",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS OpsWorks for Puppet Enterprise",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS OpsWorks Stacks",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS QuickSight",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Resource Groups Tagging API",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Secrets Manager",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Serverless Application Repository",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Service Catalog",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Step Functions",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Storage Gateway",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS Systems Manager",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS VPCE PrivateLink",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        },
+        {
+            "service_location": "Ireland",
+            "service_name": "AWS X-Ray",
+            "status_text": "Service is operating normally",
+            "status_condition": "green"
+        }
+    ]
+}
